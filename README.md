@@ -14,7 +14,7 @@ A curated list of independent resources for evaluating Employer of Record (EOR) 
 ## Country Hiring Guides
 - [Hiring in Germany](https://eorhq.com/guides/hiring-in-germany)
 - [Hiring in Japan](https://eorhq.com/guides/hiring-in-japan)
-- ... (add more)
+- [Hiring in India](https://eorhq.com/guides/hiring-in-india)
 
 ## Key Concepts
 - [What is an EOR?](https://eorhq.com/guides/what-is-an-eor)
